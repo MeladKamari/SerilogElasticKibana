@@ -4,5 +4,6 @@ namespace Application;
 
 public interface IWeatherService
 {
-    IEnumerable<WeatherForecast> GetWeather();
+    IEnumerable<WeatherForecastDto> GetWeather();
+    void LogSensor();
 }

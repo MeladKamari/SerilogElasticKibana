@@ -3,3 +3,94 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# Build results
+bin/
+obj/
+
+# Rider project files
+.idea/
+.idea/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\ Files/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# MSTest test Results
+TestResults/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# DNX
+project.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# dotnet publish packages
+publish/
+
+# Azure Web App artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+project.lock.json
+artifacts/
+
+# StyleCop code analysis
+StyleCopReport.xml
+
+# Files built by Visual Studio
+# do not change these unless you know what you are doing
+build/
+debug/
+release/
+
+# Mac OSX files
+.DS_Store
+
+# VS for Mac
+.vscode/
+.vscode/*
